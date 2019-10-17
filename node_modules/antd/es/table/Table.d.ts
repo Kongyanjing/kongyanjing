@@ -1,0 +1,4 @@
+import * as React from 'react';
+import { TableProps } from './interface';
+declare const _default: React.ComponentClass<Pick<TableProps<any>, "loading" | "footer" | "style" | "title" | "scroll" | "size" | "children" | "className" | "prefixCls" | "locale" | "getPopupContainer" | "onChange" | "dataSource" | "expandIcon" | "tableLayout" | "columns" | "bordered" | "bodyStyle" | "pagination" | "rowKey" | "dropdownPrefixCls" | "rowSelection" | "components" | "rowClassName" | "expandedRowRender" | "defaultExpandAllRows" | "defaultExpandedRowKeys" | "expandedRowKeys" | "expandIconAsCell" | "expandIconColumnIndex" | "expandRowByClick" | "onExpandedRowsChange" | "onExpand" | "indentSize" | "onRowClick" | "onRow" | "onHeaderRow" | "useFixedHeader" | "showHeader" | "childrenColumnName" | "sortDirections">, any>;
+export default _default;
